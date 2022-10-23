@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5000"
+   height="3178.5828"
+   viewBox="0 0 1322.9166 841"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="trixcar-screens.svg"
+   inkscape:export-filename="/home/ivantom/bitmap.svg.png"
+   inkscape:export-xdpi="19.711494"
+   inkscape:export-ydpi="19.711494">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient26365"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="0"
+         id="stop26363" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9730">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop9726" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop9728" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 420.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1322.9166 : 420.5 : 1"
+       inkscape:persp3d-origin="661.4583 : 280.33333 : 1"
+       id="perspective8899" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient5721"
+       gradientUnits="userSpaceOnUse"
+       x="808.36505"
+       y="-358.47751">
+      <meshrow
+         id="meshrow8867">
+        <meshpatch
+           id="meshpatch8869">
+          <stop
+             path="c 10.8413,14.3257  10.8149,0  16.2223,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop8871" />
+          <stop
+             path="c 1.13687e-13,6.34931  -8.23308,12.6986  -8.23314,19.0479"
+             style="stop-color:#999999;stop-opacity:1"
+             id="stop8873" />
+          <stop
+             path="c -5.40743,0  5.48666,0  0.0793261,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop8875" />
+          <stop
+             path="c -0.000182405,-6.34931  -8.06867,-12.6986  -8.06849,-19.0479"
+             style="stop-color:#999999;stop-opacity:1"
+             id="stop8877" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9730"
+       id="linearGradient9732"
+       x1="24.488859"
+       y1="-271.86719"
+       x2="153.875"
+       y2="-499.58679"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.40170455"
+     inkscape:cx="3781.1004"
+     inkscape:cy="2323.9648"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1368"
+     inkscape:window-height="836"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,544)"
+     style="display:inline;opacity:0.722">
+    <rect
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="rect815"
+       width="123.34811"
+       height="219.52515"
+       x="17.156973"
+       y="-506.9187"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="rect821"
+       width="112.13465"
+       height="193.21667"
+       x="17.156973"
+       y="-506.9187"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect826"
+       width="129.38614"
+       height="227.71962"
+       x="24.488859"
+       y="-499.58679"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="rect828"
+       width="0.43128714"
+       height="1.7251486"
+       x="169.83264"
+       y="-474.57214"
+       ry="0.21564357"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-499.58679"
+       x="181.44626"
+       height="227.71962"
+       width="129.38614"
+       id="rect830"
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.79342723;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-499.58679"
+       x="336.47925"
+       height="227.71962"
+       width="129.38614"
+       id="rect832"
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.78498459px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20609359"
+       x="47.742382"
+       y="-378.13947"
+       id="text836"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan834"
+         x="47.742382"
+         y="-378.13947"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Bold';stroke-width:0.20609359">TrixCar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04541159px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20609359"
+       x="80.679787"
+       y="-306.16113"
+       id="text840"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan838"
+         x="80.679787"
+         y="-306.16113"
+         style="stroke-width:0.20609359">from</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.75693321px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13288473"
+       x="73.778"
+       y="-288.07678"
+       id="text844"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan842"
+         x="73.778"
+         y="-288.07678"
+         style="stroke-width:0.13288473">TRIX</tspan></text>
+    <rect
+       ry="0.21564357"
+       y="-474.57214"
+       x="472.72147"
+       height="1.7251486"
+       width="0.43128714"
+       id="rect846"
+       style="opacity:0.69899998;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.79342723;paint-order:normal"
+       id="rect848"
+       width="129.38614"
+       height="227.71962"
+       x="484.33511"
+       y="-499.58679"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect850"
+       width="129.38614"
+       height="227.71962"
+       x="639.36816"
+       y="-499.58679"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect884"
+       width="129.38614"
+       height="227.71962"
+       x="794.30847"
+       y="-499.58679"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-499.58679"
+       x="794.30847"
+       height="227.71962"
+       width="129.38614"
+       id="rect852"
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:stroke fill markers"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       y="-506.9187"
+       x="17.156973"
+       height="219.52515"
+       width="123.34811"
+       id="rect854"
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       y="-506.9187"
+       x="17.156973"
+       height="193.21667"
+       width="112.13465"
+       id="rect856"
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-499.58679"
+       x="24.488859"
+       height="227.71962"
+       width="129.38614"
+       id="rect858"
+       style="opacity:0.69899998;fill:url(#linearGradient9732);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="0.21564357"
+       y="-474.57214"
+       x="169.83264"
+       height="1.7251486"
+       width="0.43128714"
+       id="rect860"
+       style="opacity:0.69899998;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.79342723;paint-order:normal"
+       id="rect862"
+       width="129.38614"
+       height="227.71962"
+       x="181.44626"
+       y="-499.58679"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.797;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07524833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke"
+       id="rect10106"
+       width="118.22795"
+       height="1.3173031"
+       x="342.17477"
+       y="-386.15274"
+       ry="0.49289984" />
+    <rect
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect864"
+       width="129.38614"
+       height="227.71962"
+       x="336.59567"
+       y="-499.35391"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       id="text868"
+       y="-378.13947"
+       x="47.742382"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.78498459px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20609359"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Bold';stroke-width:0.20609359"
+         y="-378.13947"
+         x="47.742382"
+         id="tspan866"
+         sodipodi:role="line">TrixCar</tspan></text>
+    <text
+       id="text872"
+       y="-306.16113"
+       x="80.679787"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04541159px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20609359"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="stroke-width:0.20609359"
+         y="-306.16113"
+         x="80.679787"
+         id="tspan870"
+         sodipodi:role="line">from</tspan></text>
+    <text
+       id="text876"
+       y="-288.07678"
+       x="73.778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.75693321px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13288473"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="stroke-width:0.13288473"
+         y="-288.07678"
+         x="73.778"
+         id="tspan874"
+         sodipodi:role="line">TRIX</tspan></text>
+    <rect
+       style="opacity:0.69899998;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="rect878"
+       width="0.43128714"
+       height="1.7251486"
+       x="472.72147"
+       y="-474.57214"
+       ry="0.21564357"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-499.58679"
+       x="484.33511"
+       height="227.71962"
+       width="129.38614"
+       id="rect880"
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.79342723;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-499.58679"
+       x="639.36816"
+       height="227.71962"
+       width="129.38614"
+       id="rect882"
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       y="-258.15787"
+       x="17.156973"
+       height="219.52515"
+       width="123.34811"
+       id="rect886"
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       y="-258.15787"
+       x="17.156973"
+       height="193.21667"
+       width="112.13465"
+       id="rect888"
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-250.82593"
+       x="24.488859"
+       height="227.71962"
+       width="129.38614"
+       id="rect890"
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="0.21564357"
+       y="-225.81134"
+       x="169.83264"
+       height="1.7251486"
+       width="0.43128714"
+       id="rect892"
+       style="opacity:0.69899998;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.79342723;paint-order:normal"
+       id="rect894"
+       width="129.38614"
+       height="227.71962"
+       x="181.44626"
+       y="-250.82593"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect896"
+       width="129.38614"
+       height="227.71962"
+       x="336.47925"
+       y="-250.82593"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       id="text900"
+       y="-129.3786"
+       x="47.742382"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.78498459px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20609359"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Bold';stroke-width:0.20609359"
+         y="-129.3786"
+         x="47.742382"
+         id="tspan898"
+         sodipodi:role="line">TrixCar</tspan></text>
+    <text
+       id="text904"
+       y="-57.400265"
+       x="80.679787"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04541159px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20609359"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="stroke-width:0.20609359"
+         y="-57.400265"
+         x="80.679787"
+         id="tspan902"
+         sodipodi:role="line">from</tspan></text>
+    <text
+       id="text908"
+       y="-39.316006"
+       x="73.778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.75693321px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13288473"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="stroke-width:0.13288473"
+         y="-39.316006"
+         x="73.778"
+         id="tspan906"
+         sodipodi:role="line">TRIX</tspan></text>
+    <rect
+       style="opacity:0.69899998;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="rect910"
+       width="0.43128714"
+       height="1.7251486"
+       x="472.72147"
+       y="-225.81134"
+       ry="0.21564357"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-250.82593"
+       x="484.33511"
+       height="227.71962"
+       width="129.38614"
+       id="rect912"
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.79342723;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-250.82593"
+       x="639.36816"
+       height="227.71962"
+       width="129.38614"
+       id="rect914"
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect916"
+       width="129.38614"
+       height="227.71962"
+       x="794.30847"
+       y="-250.82593"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="rect918"
+       width="123.34811"
+       height="219.52515"
+       x="17.156973"
+       y="-258.15787"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="rect920"
+       width="112.13465"
+       height="193.21667"
+       x="17.156973"
+       y="-258.15787"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect922"
+       width="129.38614"
+       height="227.71962"
+       x="24.488859"
+       y="-250.82593"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="rect924"
+       width="0.43128714"
+       height="1.7251486"
+       x="169.83264"
+       y="-225.81134"
+       ry="0.21564357"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-250.82593"
+       x="181.44626"
+       height="227.71962"
+       width="129.38614"
+       id="rect926"
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.79342723;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-250.82593"
+       x="336.47925"
+       height="227.71962"
+       width="129.38614"
+       id="rect928"
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.78498459px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20609359"
+       x="47.742382"
+       y="-129.3786"
+       id="text932"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan930"
+         x="47.742382"
+         y="-129.3786"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Bold';stroke-width:0.20609359">TrixCar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04541159px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20609359"
+       x="80.679787"
+       y="-57.400265"
+       id="text936"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan934"
+         x="80.679787"
+         y="-57.400265"
+         style="stroke-width:0.20609359">from</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.75693321px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13288473"
+       x="73.778"
+       y="-39.316006"
+       id="text940"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan938"
+         x="73.778"
+         y="-39.316006"
+         style="stroke-width:0.13288473">TRIX</tspan></text>
+    <rect
+       ry="0.21564357"
+       y="-225.81134"
+       x="472.72147"
+       height="1.7251486"
+       width="0.43128714"
+       id="rect942"
+       style="opacity:0.69899998;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75656784;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.79342723;paint-order:normal"
+       id="rect944"
+       width="129.38614"
+       height="227.71962"
+       x="484.33511"
+       y="-250.82593"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect946"
+       width="129.38614"
+       height="227.71962"
+       x="639.36816"
+       y="-250.82593"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-250.82593"
+       x="794.30847"
+       height="227.71962"
+       width="129.38614"
+       id="rect948"
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-496.37067"
+       x="943.29602"
+       height="227.71962"
+       width="129.38614"
+       id="rect950"
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:0.7688172;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.994;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.14578541;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:fill markers stroke"
+       id="rect952"
+       width="129.38614"
+       height="227.71962"
+       x="1098.2363"
+       y="-496.37067"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.47400004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99000466;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:markers stroke fill"
+       id="rect26385"
+       width="59.551025"
+       height="36.649223"
+       x="945.37756"
+       y="-334.31674"
+       ry="0"
+       rx="0.24699433" />
+    <rect
+       style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect954"
+       width="129.38614"
+       height="227.71962"
+       x="943.29602"
+       y="-496.37067"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-496.37067"
+       x="1098.2363"
+       height="227.71962"
+       width="129.38614"
+       id="rect956"
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect958"
+       width="129.38614"
+       height="227.71962"
+       x="943.29602"
+       y="-247.6098"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-247.6098"
+       x="1098.2363"
+       height="227.71962"
+       width="129.38614"
+       id="rect960"
+       style="opacity:0.13999999;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:fill markers stroke"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251486"
+       y="-247.6098"
+       x="943.29602"
+       height="227.71962"
+       width="129.38614"
+       id="rect962"
+       style="opacity:0.69899998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.003;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.28337562;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect964"
+       width="129.38614"
+       height="227.71962"
+       x="1098.2363"
+       y="-247.6098"
+       ry="1.7251486"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect966"
+       width="85.69561"
+       height="27.94422"
+       x="202.71727"
+       y="-400.8869"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path970"
+       sodipodi:type="arc"
+       sodipodi:cx="232.1436"
+       sodipodi:cy="-386.91479"
+       sodipodi:rx="5.5888438"
+       sodipodi:ry="5.5888438"
+       sodipodi:start="4.0784156"
+       sodipodi:end="4.078241"
+       sodipodi:open="true"
+       d="m 228.83304,-391.41762 a 5.5888438,5.5888438 0 0 1 7.81324,1.19207 5.5888438,5.5888438 0 0 1 -1.19173,7.81329 5.5888438,5.5888438 0 0 1 -7.81334,-1.19139 5.5888438,5.5888438 0 0 1 1.19105,-7.81339"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <path
+       d="m 240.91036,-391.41762 a 5.5888438,5.5888438 0 0 1 7.81323,1.19207 5.5888438,5.5888438 0 0 1 -1.19172,7.81329 5.5888438,5.5888438 0 0 1 -7.81334,-1.19139 5.5888438,5.5888438 0 0 1 1.19105,-7.81339"
+       sodipodi:open="true"
+       sodipodi:end="4.078241"
+       sodipodi:start="4.0784156"
+       sodipodi:ry="5.5888438"
+       sodipodi:rx="5.5888438"
+       sodipodi:cy="-386.91479"
+       sodipodi:cx="244.22092"
+       sodipodi:type="arc"
+       id="path1656"
+       style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path1658"
+       sodipodi:type="arc"
+       sodipodi:cx="256.29822"
+       sodipodi:cy="-386.91479"
+       sodipodi:rx="5.5888438"
+       sodipodi:ry="5.5888438"
+       sodipodi:start="4.0784156"
+       sodipodi:end="4.078241"
+       sodipodi:open="true"
+       d="m 252.98766,-391.41762 a 5.5888438,5.5888438 0 0 1 7.81323,1.19207 5.5888438,5.5888438 0 0 1 -1.19172,7.81329 5.5888438,5.5888438 0 0 1 -7.81334,-1.19139 5.5888438,5.5888438 0 0 1 1.19105,-7.81339"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path1660"
+       sodipodi:type="arc"
+       sodipodi:cx="268.37552"
+       sodipodi:cy="-386.91479"
+       sodipodi:rx="5.5888438"
+       sodipodi:ry="5.5888438"
+       sodipodi:start="4.0784156"
+       sodipodi:end="4.078241"
+       sodipodi:open="true"
+       d="m 265.06496,-391.41762 a 5.5888438,5.5888438 0 0 1 7.81324,1.19207 5.5888438,5.5888438 0 0 1 -1.19173,7.81329 5.5888438,5.5888438 0 0 1 -7.81334,-1.19139 5.5888438,5.5888438 0 0 1 1.19105,-7.81339"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <path
+       d="m 216.75573,-391.41762 a 5.5888438,5.5888438 0 0 1 7.81323,1.19207 5.5888438,5.5888438 0 0 1 -1.19173,7.81329 5.5888438,5.5888438 0 0 1 -7.81333,-1.19139 5.5888438,5.5888438 0 0 1 1.19104,-7.81339"
+       sodipodi:open="true"
+       sodipodi:end="4.078241"
+       sodipodi:start="4.0784156"
+       sodipodi:ry="5.5888438"
+       sodipodi:rx="5.5888438"
+       sodipodi:cy="-386.91479"
+       sodipodi:cx="220.06628"
+       sodipodi:type="arc"
+       id="path1662"
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.45279884px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0077ff;fill-opacity:1;stroke:none;stroke-width:0.17138332"
+       x="376.16412"
+       y="-416.05368"
+       id="text3914"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan3912"
+         x="376.16412"
+         y="-416.05368"
+         style="fill:#0077ff;fill-opacity:1;stroke-width:0.17138332">Login</tspan></text>
+    <text
+       id="text5561"
+       y="-353.26547"
+       x="361.58823"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.45279884px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00b700;fill-opacity:0.77021275;stroke:none;stroke-width:0.17138332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#00b700;fill-opacity:0.77021275;stroke-width:0.17138332"
+         y="-353.26547"
+         x="361.58823"
+         id="tspan5559"
+         sodipodi:role="line">Register</tspan></text>
+    <rect
+       style="opacity:0.28699999;fill:#cccccc;fill-opacity:0.77021275;fill-rule:nonzero;stroke:#808080;stroke-width:0.06879167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5582"
+       width="117.36572"
+       height="192.34938"
+       x="490.42105"
+       y="-483.10944"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0064b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="523.3653"
+       y="-466.34293"
+       id="text5586"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5584"
+         x="523.3653"
+         y="-466.34293"
+         style="fill:#0064b3;fill-opacity:1;stroke-width:0.26458332">Login</tspan></text>
+    <rect
+       style="opacity:0.69899998;fill:#0064b3;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.06879166;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5588"
+       width="20.958179"
+       height="21.423889"
+       x="507.18756"
+       y="-537.60071"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251494"
+       y="-537.60071"
+       x="540.72064"
+       height="21.423889"
+       width="20.958179"
+       id="rect5590"
+       style="opacity:0.69899998;fill:#00b700;fill-opacity:0.76862745;fill-rule:nonzero;stroke:#808080;stroke-width:0.06879167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.12170833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5592"
+       width="101.9964"
+       height="18.629478"
+       x="498.10571"
+       y="-447.71341"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251494"
+       y="-424.47336"
+       x="498.10571"
+       height="18.629478"
+       width="101.9964"
+       id="rect5594"
+       style="opacity:0.69899998;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.12170833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:transform-center-x="-2.963932"
+       inkscape:transform-center-y="-5.2692125"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.8859398"
+       y="-489.62823"
+       x="798.40778"
+       height="210.27705"
+       width="121.91107"
+       id="rect5615"
+       style="opacity:0.38999999;fill:#cccccc;fill-opacity:0.77021275;fill-rule:nonzero;stroke:#808080;stroke-width:0.07330564;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       id="text5619"
+       y="-466.34293"
+       x="818.50323"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0064b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#0064b3;fill-opacity:1;stroke-width:0.26458332"
+         y="-466.34293"
+         x="818.50323"
+         id="tspan5617"
+         sodipodi:role="line">Register</tspan></text>
+    <rect
+       ry="1.7251494"
+       y="-451.43933"
+       x="808.36505"
+       height="18.629478"
+       width="101.9964"
+       id="rect5621"
+       style="opacity:0.69899998;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.12170833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       inkscape:transform-center-y="-5.2692125"
+       inkscape:transform-center-x="-2.963932"
+       style="opacity:0.69899998;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.12170833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5623"
+       width="101.9964"
+       height="18.629478"
+       x="808.36505"
+       y="-428.19928"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.12170833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5625"
+       width="101.9964"
+       height="18.629478"
+       x="808.36505"
+       y="-405.00439"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251494"
+       y="-381.76434"
+       x="808.36505"
+       height="18.629478"
+       width="101.9964"
+       id="rect5627"
+       style="opacity:0.69899998;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.12170833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:transform-center-x="-2.963932"
+       inkscape:transform-center-y="-5.2692125"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="502.53018"
+       y="-434.67279"
+       id="text5631"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5629"
+         x="502.53018"
+         y="-434.67279"
+         style="fill:#808080;stroke-width:0.26458332">username</tspan></text>
+    <text
+       id="text5635"
+       y="-412.31741"
+       x="502.53018"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#808080;stroke-width:0.26458332"
+         y="-412.31741"
+         x="502.53018"
+         id="tspan5633"
+         sodipodi:role="line">password</tspan></text>
+    <rect
+       style="opacity:0.69899998;fill:#00b700;fill-opacity:0.76862745;fill-rule:nonzero;stroke:#808080;stroke-width:0.06879167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5637"
+       width="76.380867"
+       height="19.560955"
+       x="509.51627"
+       y="-371.79831"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="529.03772"
+       y="-358.22687"
+       id="text5641"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5639"
+         x="529.03772"
+         y="-358.22687"
+         style="fill:#ffffff;stroke-width:0.26458332">login</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0064b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="520.69397"
+       y="-389.03058"
+       id="text5645"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5643"
+         x="520.69397"
+         y="-389.03058"
+         style="fill:#0064b3;fill-opacity:1;stroke-width:0.26458332">password fogot</tspan></text>
+    <text
+       id="text5649"
+       y="-434.67279"
+       x="502.53018"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#808080;stroke-width:0.26458332"
+         y="-434.67279"
+         x="502.53018"
+         id="tspan5647"
+         sodipodi:role="line">username</tspan></text>
+    <text
+       id="text5653"
+       y="-466.34293"
+       x="646.44287"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0064b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#0064b3;fill-opacity:1;stroke-width:0.26458332"
+         y="-466.34293"
+         x="646.44287"
+         id="tspan5651"
+         sodipodi:role="line">Create an account</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="660.48621"
+       y="-426.75528"
+       id="text5657"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5655"
+         x="660.48621"
+         y="-426.75528"
+         style="stroke-width:0.26458332">who are you ?</tspan></text>
+    <rect
+       style="opacity:0.69899998;fill:#009d00;fill-opacity:1;fill-rule:nonzero;stroke:#008000;stroke-width:0.43920833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5659"
+       width="100.13345"
+       height="20.492428"
+       x="652.4975"
+       y="-413.2489"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251494"
+       y="-381.11304"
+       x="652.4975"
+       height="20.492428"
+       width="100.13345"
+       id="rect5661"
+       style="opacity:0.69899998;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.06879167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       style="opacity:0.69899998;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.06879166;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5663"
+       width="20.958179"
+       height="21.423889"
+       x="577.51385"
+       y="-537.60071"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <rect
+       ry="1.7251494"
+       y="-537.60071"
+       x="608.71826"
+       height="21.423889"
+       width="20.958179"
+       id="rect5665"
+       style="opacity:0.69899998;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.06879167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="671.93756"
+       y="-399.89825"
+       id="text5669"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5667"
+         x="671.93756"
+         y="-399.89825"
+         style="fill:#ffffff;stroke-width:0.26458332">Passenger</tspan></text>
+    <text
+       id="text5673"
+       y="-366.53754"
+       x="682.09753"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#ffffff;stroke-width:0.26458332"
+         y="-366.53754"
+         x="682.09753"
+         id="tspan5671"
+         sodipodi:role="line">Driver</tspan></text>
+    <rect
+       style="opacity:0.69899998;fill:#009d00;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.06879167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5675"
+       width="20.958179"
+       height="21.423889"
+       x="641.31989"
+       y="-537.60071"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="813.17682"
+       y="-438.86444"
+       id="text5679"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5677"
+         x="813.17682"
+         y="-438.86444"
+         style="fill:#999999;stroke-width:0.26458332">username</tspan></text>
+    <text
+       id="text5683"
+       y="-415.57758"
+       x="813.17682"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#999999;stroke-width:0.26458332"
+         y="-415.57758"
+         x="813.17682"
+         id="tspan5681"
+         sodipodi:role="line">first name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="813.17682"
+       y="-393.45508"
+       id="text5687"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5685"
+         x="813.17682"
+         y="-393.45508"
+         style="fill:#999999;stroke-width:0.26458332">last name</tspan></text>
+    <text
+       id="text5691"
+       y="-369.70248"
+       x="813.17682"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#999999;stroke-width:0.26458332"
+         y="-369.70248"
+         x="813.17682"
+         id="tspan5689"
+         sodipodi:role="line">email</tspan></text>
+    <rect
+       inkscape:transform-center-y="-5.2692125"
+       inkscape:transform-center-x="-2.963932"
+       style="opacity:0.69899998;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.12170833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5693"
+       width="101.9964"
+       height="18.629478"
+       x="808.36505"
+       y="-381.76434"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="813.17682"
+       y="-369.70248"
+       id="text5697"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5695"
+         x="813.17682"
+         y="-369.70248"
+         style="fill:#999999;stroke-width:0.26458332">email</tspan></text>
+    <rect
+       ry="1.7251494"
+       y="-358.47751"
+       x="808.36505"
+       height="18.629478"
+       width="101.9964"
+       id="rect5699"
+       style="opacity:0.69899998;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.12170833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       inkscape:transform-center-x="-2.963932"
+       inkscape:transform-center-y="-5.2692125"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       id="text5703"
+       y="-346.41565"
+       x="827.12555"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#999999;stroke-width:0.26458332"
+         y="-346.41565"
+         x="827.12555"
+         id="tspan5701"
+         sodipodi:role="line">phone number</tspan></text>
+    <rect
+       style="opacity:0.69899998;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.06879167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5709"
+       width="100.13345"
+       height="20.492428"
+       x="809.21802"
+       y="-307.06085"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="832.04474"
+       y="-293.44492"
+       id="text5713"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan5711"
+         x="832.04474"
+         y="-293.44492"
+         style="fill:#ffffff;stroke-width:0.26458332">Register</tspan></text>
+    <rect
+       style="opacity:0.69899998;fill:url(#meshgradient5721);fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect5715"
+       width="16.222282"
+       height="19.047918"
+       x="808.36505"
+       y="-358.47751"
+       ry="1.7251494"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.69899998;fill:#0064b3;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.12170833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="path5719"
+       sodipodi:sides="5"
+       sodipodi:cx="702.09851"
+       sodipodi:cy="-317.30707"
+       sodipodi:r1="11.180113"
+       sodipodi:r2="8.6331644"
+       sodipodi:arg1="1.549966"
+       sodipodi:arg2="-0.79156008"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 702.33138,-306.12938 5.83397,-17.31976 -16.62549,9.81764 18.27486,0.19633 -14.47468,-12.77796 5.46051,17.4411 7.67965,-17.71485 -14.90008,10.58285 19.22096,1.82959 -14.66927,-10.90054 z"
+       inkscape:transform-center-x="-0.071975329"
+       inkscape:transform-center-y="0.99893881"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       id="text8881"
+       y="-325.45746"
+       x="807.82086"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#999999;stroke-width:0.26458332"
+         y="-325.45746"
+         x="807.82086"
+         id="tspan8879"
+         sodipodi:role="line">Gender</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#782121;fill-opacity:0;fill-rule:evenodd;stroke:#999999;stroke-width:0.99481124;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path8883"
+       sodipodi:type="arc"
+       sodipodi:cx="851.36719"
+       sodipodi:cy="-328.48477"
+       sodipodi:rx="2.0958164"
+       sodipodi:ry="2.0958164"
+       sodipodi:start="4.0784156"
+       sodipodi:end="4.078241"
+       sodipodi:open="true"
+       d="m 850.12573,-330.17333 a 2.0958164,2.0958164 0 0 1 2.92996,0.44703 2.0958164,2.0958164 0 0 1 -0.4469,2.92998 2.0958164,2.0958164 0 0 1 -2.93,-0.44677 2.0958164,2.0958164 0 0 1 0.44664,-2.93002"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="855.32593"
+       y="-325.69034"
+       id="text8887"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         sodipodi:role="line"
+         id="tspan8885"
+         x="855.32593"
+         y="-325.69034"
+         style="fill:#666666;stroke-width:0.26458332">Male</tspan></text>
+    <path
+       d="m 877.60424,-330.17333 a 2.0958164,2.0958164 0 0 1 2.92997,0.44703 2.0958164,2.0958164 0 0 1 -0.4469,2.92998 2.0958164,2.0958164 0 0 1 -2.93,-0.44677 2.0958164,2.0958164 0 0 1 0.44664,-2.93002"
+       sodipodi:open="true"
+       sodipodi:end="4.078241"
+       sodipodi:start="4.0784156"
+       sodipodi:ry="2.0958164"
+       sodipodi:rx="2.0958164"
+       sodipodi:cy="-328.48477"
+       sodipodi:cx="878.8457"
+       sodipodi:type="arc"
+       id="path8889"
+       style="opacity:1;vector-effect:none;fill:#782121;fill-opacity:0;fill-rule:evenodd;stroke:#999999;stroke-width:0.99481124;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494" />
+    <text
+       id="text8893"
+       y="-325.69034"
+       x="882.57159"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"><tspan
+         style="fill:#666666;stroke-width:0.26458332"
+         y="-325.69034"
+         x="882.57159"
+         id="tspan8891"
+         sodipodi:role="line">Female</tspan></text>
+    <rect
+       style="opacity:0.47400004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal"
+       id="rect8897"
+       width="128.24773"
+       height="22.331833"
+       x="943.79004"
+       y="-495.79434"
+       ry="2.0389025"
+       rx="0.97383529" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888798px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="972.16962"
+       y="-480.53818"
+       id="text8928"><tspan
+         sodipodi:role="line"
+         id="tspan8926"
+         x="972.16962"
+         y="-480.53818"
+         style="fill:#ffffff;stroke-width:0.26458332">TrixCar</tspan></text>
+    <g
+       id="g3956"
+       inkscape:export-filename="/home/ivantom/bitmap.png"
+       inkscape:export-xdpi="19.711494"
+       inkscape:export-ydpi="19.711494"
+       style="fill:#b3b3b3">
+      <path
+         d="m 397.42641,-391.09671 a 6.5203176,6.5203176 0 0 1 9.11544,1.39075 6.5203176,6.5203176 0 0 1 -1.39035,9.1155 6.5203176,6.5203176 0 0 1 -9.11556,-1.38995 6.5203176,6.5203176 0 0 1 1.38955,-9.11562"
+         sodipodi:open="true"
+         sodipodi:end="4.078241"
+         sodipodi:start="4.0784156"
+         sodipodi:ry="6.5203176"
+         sodipodi:rx="6.5203176"
+         sodipodi:cy="-385.84341"
+         sodipodi:cx="401.28873"
+         sodipodi:type="arc"
+         id="path3918"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:0.53191457;fill-rule:evenodd;stroke:#808080;stroke-width:0.06879166;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         id="text3922"
+         y="-384.04071"
+         x="398.27109"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#b3b3b3;stroke-width:0.26458332"
+           y="-384.04071"
+           x="398.27109"
+           id="tspan3920"
+           sodipodi:role="line">Or</tspan></text>
+    </g>
+    <g
+       style="fill:#e6e6e6;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="g13093"
+       transform="matrix(0.71151906,0,0,0.71151906,947.16522,-493.16665)">
+      <line
+         id="line13076"
+         y2="12"
+         x2="21"
+         y1="12"
+         x1="3"
+         style="fill:#cccccc" />
+      <line
+         id="line13078"
+         y2="6"
+         x2="21"
+         y1="6"
+         x1="3"
+         style="fill:#ffffff" />
+      <line
+         id="line13080"
+         y2="18"
+         x2="21"
+         y1="18"
+         x1="3"
+         style="fill:#e6e6e6" />
+    </g>
+    <rect
+       style="opacity:0.47400004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83726656;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:markers stroke fill"
+       id="rect26377"
+       width="59.407413"
+       height="63.473778"
+       x="945.37756"
+       y="-469.7583"
+       ry="1.7251494" />
+    <rect
+       ry="1.7251494"
+       y="-469.7583"
+       x="1010.5135"
+       height="63.473778"
+       width="59.407413"
+       id="rect26379"
+       style="opacity:0.47400004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83726656;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:markers stroke fill" />
+    <rect
+       ry="1.7251494"
+       y="-402.58029"
+       x="945.37756"
+       height="63.473778"
+       width="59.407413"
+       id="rect26381"
+       style="opacity:0.47400004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83726656;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:0.47400004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83726656;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:markers stroke fill"
+       id="rect26383"
+       width="59.407413"
+       height="63.473778"
+       x="1010.5135"
+       y="-402.58029"
+       ry="1.7251494" />
+    <rect
+       rx="0.24699433"
+       ry="0"
+       y="-333.90991"
+       x="1010.3236"
+       height="36.649223"
+       width="59.551025"
+       id="rect26632"
+       style="opacity:0.47400004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99000466;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:markers stroke fill" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="app_bar"
+     style="display:inline">
+    <g
+       id="g26563">
+      <rect
+         style="display:inline;opacity:0.797;fill:#b3b3b3;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.07188426;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke"
+         id="rect10114"
+         width="8.5706062"
+         height="23.521776"
+         x="1061.3041"
+         y="247.26849"
+         ry="1.6020957" />
+      <rect
+         style="display:inline;opacity:0.797;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12353818;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke"
+         id="rect10118"
+         width="25.31316"
+         height="23.521776"
+         x="946.638"
+         y="246.21606"
+         ry="1.6020957" />
+      <rect
+         ry="0"
+         y="248.3558"
+         x="949.21716"
+         height="13.876644"
+         width="20.154682"
+         id="rect10132"
+         style="display:inline;opacity:0.797;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19215354;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke" />
+      <rect
+         ry="0.92440975"
+         y="262.039"
+         x="946.63782"
+         height="7.8152862"
+         width="25.313232"
+         id="rect10134"
+         style="display:inline;opacity:0.797;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10671683;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke" />
+      <text
+         transform="scale(1.000925,0.99907585)"
+         id="text10138"
+         y="267.99631"
+         x="952.37561"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.01026058px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.722;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20876086"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.20876086"
+           y="267.99631"
+           x="952.37561"
+           id="tspan10136"
+           sodipodi:role="line">Home</tspan></text>
+      <rect
+         ry="1.6020957"
+         y="246.33249"
+         x="975.78333"
+         height="23.521776"
+         width="25.31316"
+         id="rect10142"
+         style="display:inline;opacity:0.797;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12353818;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke" />
+      <rect
+         style="display:inline;opacity:0.797;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19215354;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke"
+         id="rect10144"
+         width="20.154682"
+         height="13.876644"
+         x="978.85651"
+         y="248.3558"
+         ry="0" />
+      <rect
+         style="display:inline;opacity:0.797;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10671683;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke"
+         id="rect10146"
+         width="25.313232"
+         height="7.8152862"
+         x="975.78326"
+         y="262.039"
+         ry="0.92440975" />
+      <text
+         transform="scale(0.96673167,1.0344132)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.85221529px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.722;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20217563"
+         x="1016.5117"
+         y="258.85068"
+         id="text10150"><tspan
+           sodipodi:role="line"
+           id="tspan10148"
+           x="1016.5117"
+           y="258.85068"
+           style="fill:#ffffff;stroke-width:0.20217563">Book</tspan></text>
+      <rect
+         style="display:inline;opacity:0.36400003;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12353818;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke"
+         id="rect10152"
+         width="25.31316"
+         height="23.521776"
+         x="1004.9286"
+         y="246.33249"
+         ry="1.6020957" />
+      <rect
+         ry="0"
+         y="248.3558"
+         x="1008.0017"
+         height="13.876644"
+         width="20.154682"
+         id="rect10154"
+         style="display:inline;opacity:0.797;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19215354;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke" />
+      <rect
+         ry="0.75682259"
+         y="261.91666"
+         x="1004.9286"
+         height="7.8152862"
+         width="25.313232"
+         id="rect10156"
+         style="display:inline;opacity:0.797;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10671683;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke" />
+      <text
+         transform="scale(1.0561562,0.94682965)"
+         id="text10160"
+         y="281.93423"
+         x="959.62793"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.29909706px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.722;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.17912903"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.17912903"
+           y="281.93423"
+           x="959.62793"
+           id="tspan10158"
+           sodipodi:role="line">Map</tspan></text>
+      <rect
+         ry="1.6020957"
+         y="246.33249"
+         x="1034.074"
+         height="23.521776"
+         width="25.31316"
+         id="rect10162"
+         style="display:inline;opacity:0.797;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12353818;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke" />
+      <rect
+         style="display:inline;opacity:0.797;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19215354;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke"
+         id="rect10164"
+         width="20.154682"
+         height="13.876644"
+         x="1036.9825"
+         y="248.3558"
+         ry="0" />
+      <rect
+         style="display:inline;opacity:0.797;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10671683;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:fill markers stroke"
+         id="rect10166"
+         width="25.313232"
+         height="7.8152862"
+         x="1034.074"
+         y="262.039"
+         ry="0.90564591" />
+      <text
+         transform="scale(1.0876275,0.91943244)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.20977354px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.722;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.17540723"
+         x="952.31165"
+         y="290.50748"
+         id="text10170"><tspan
+           sodipodi:role="line"
+           id="tspan10168"
+           x="952.31165"
+           y="290.50748"
+           style="fill:#ffffff;stroke-width:0.17540723">Settings</tspan></text>
+      <g
+         style="display:inline;opacity:0.722;fill:#000000"
+         transform="matrix(1.0523671,0,0,1.0523671,-58.127897,556.23341)"
+         id="g10183">
+        <path
+           d="m 1063.8634,-284.6008 a 1.8519667,1.8519377 0 0 1 2.5891,0.395 1.8519667,1.8519377 0 0 1 -0.3949,2.58904 1.8519667,1.8519377 0 0 1 -2.5891,-0.39478 1.8519667,1.8519377 0 0 1 0.3947,-2.58907"
+           sodipodi:open="true"
+           sodipodi:end="4.078241"
+           sodipodi:start="4.0784156"
+           sodipodi:ry="1.8519377"
+           sodipodi:rx="1.8519667"
+           sodipodi:cy="-283.10873"
+           sodipodi:cx="1064.9604"
+           sodipodi:type="arc"
+           id="path10174"
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.64680852;fill-rule:evenodd;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <path
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.64680852;fill-rule:evenodd;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path10176"
+           sodipodi:type="arc"
+           sodipodi:cx="1064.9604"
+           sodipodi:cy="-289.1189"
+           sodipodi:rx="1.8519667"
+           sodipodi:ry="1.8519377"
+           sodipodi:start="4.0784156"
+           sodipodi:end="4.078241"
+           sodipodi:open="true"
+           d="m 1063.8634,-290.61097 a 1.8519667,1.8519377 0 0 1 2.5891,0.39501 1.8519667,1.8519377 0 0 1 -0.3949,2.58904 1.8519667,1.8519377 0 0 1 -2.5891,-0.39478 1.8519667,1.8519377 0 0 1 0.3947,-2.58907" />
+        <path
+           d="m 1063.8634,-278.59064 a 1.8519667,1.8519377 0 0 1 2.5891,0.39501 1.8519667,1.8519377 0 0 1 -0.3949,2.58903 1.8519667,1.8519377 0 0 1 -2.5891,-0.39478 1.8519667,1.8519377 0 0 1 0.3947,-2.58907"
+           sodipodi:open="true"
+           sodipodi:end="4.078241"
+           sodipodi:start="4.0784156"
+           sodipodi:ry="1.8519377"
+           sodipodi:rx="1.8519667"
+           sodipodi:cy="-277.09857"
+           sodipodi:cx="1064.9604"
+           sodipodi:type="arc"
+           id="path10178"
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.64680852;fill-rule:evenodd;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      </g>
+      <rect
+         ry="0.96962506"
+         y="271.35156"
+         x="965.24341"
+         height="1.9392501"
+         width="82.198586"
+         id="rect10239"
+         style="display:inline;opacity:0.84100001;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34893619;paint-order:markers stroke fill" />
+      <g
+         transform="matrix(0.55822009,0,0,0.50588421,952.596,248.98391)"
+         id="g15498"
+         style="display:inline;opacity:0.722;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 3,9 9,-7 9,7 v 11 a 2,2 0 0 1 -2,2 H 5 A 2,2 0 0 1 3,20 Z"
+           id="path15484" />
+        <polyline
+           points="9 22 9 12 15 12 15 22"
+           id="polyline15486" />
+      </g>
+      <g
+         transform="matrix(0.45632736,0,0,0.51931219,1012.6031,249.06237)"
+         id="g18176"
+         style="display:inline;opacity:0.722;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round">
+        <polygon
+           points="16,22 23,18 23,2 16,6 8,2 1,6 1,22 8,18 "
+           id="polygon18159" />
+        <line
+           x1="8"
+           y1="2"
+           x2="8"
+           y2="18"
+           id="line18161" />
+        <line
+           x1="16"
+           y1="6"
+           x2="16"
+           y2="22"
+           id="line18163" />
+      </g>
+      <g
+         transform="matrix(0.45889985,0,0,0.4738822,1041.553,249.60753)"
+         id="g23671"
+         style="display:inline;opacity:0.722;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round">
+        <circle
+           cx="12"
+           cy="12"
+           r="3"
+           id="circle23657" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 19.4,15 a 1.65,1.65 0 0 0 0.33,1.82 l 0.06,0.06 a 2,2 0 0 1 0,2.83 2,2 0 0 1 -2.83,0 L 16.9,19.65 a 1.65,1.65 0 0 0 -1.82,-0.33 1.65,1.65 0 0 0 -1,1.51 V 21 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 V 20.91 A 1.65,1.65 0 0 0 9,19.4 1.65,1.65 0 0 0 7.18,19.73 l -0.06,0.06 a 2,2 0 0 1 -2.83,0 2,2 0 0 1 0,-2.83 L 4.35,16.9 a 1.65,1.65 0 0 0 0.33,-1.82 1.65,1.65 0 0 0 -1.51,-1 H 3 a 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 H 3.09 A 1.65,1.65 0 0 0 4.6,9 1.65,1.65 0 0 0 4.27,7.18 L 4.21,7.12 a 2,2 0 0 1 0,-2.83 2,2 0 0 1 2.83,0 L 7.1,4.35 A 1.65,1.65 0 0 0 8.92,4.68 H 9 A 1.65,1.65 0 0 0 10,3.17 V 3 a 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 v 0.09 a 1.65,1.65 0 0 0 1,1.51 1.65,1.65 0 0 0 1.82,-0.33 l 0.06,-0.06 a 2,2 0 0 1 2.83,0 2,2 0 0 1 0,2.83 L 19.65,7.1 A 1.65,1.65 0 0 0 19.32,8.92 V 9 a 1.65,1.65 0 0 0 1.51,1 H 21 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 h -0.09 a 1.65,1.65 0 0 0 -1.51,1 z"
+           id="path23659" />
+      </g>
+      <rect
+         transform="scale(-1,1)"
+         ry="2.0874929"
+         y="244.46075"
+         x="-1072.1035"
+         height="29.570505"
+         width="128.16759"
+         id="rect8895"
+         style="display:inline;opacity:0.60399996;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83098593;paint-order:normal" />
+    </g>
+  </g>
+</svg>
